@@ -1,0 +1,7 @@
+name: Cosmetics
+main: me.yourpixel.cosmetics.Main
+version: 0.1
+description: YourPixel cosmetics
+commands:
+   setpoints:
+     description: sets players points
